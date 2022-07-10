@@ -1,0 +1,16 @@
+{
+    "name": "31",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "migrate": "node-pg-migrate"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "node-pg-migrate": "^6.2.1",
+        "pg": "^8.7.3"
+    }
+}
